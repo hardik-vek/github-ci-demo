@@ -67,3 +67,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "rubocop", "~> 1.59"
+gem "brakeman", "~> 6.1"
